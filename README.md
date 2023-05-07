@@ -1,2 +1,2 @@
 # MLOPS_Productionization
-![Screenshot (235)](https://user-images.githubusercontent.com/108679600/236687716-d7aa73f5-42b5-4cae-bdae-88587353d778.png)
+![Streamlit_Model_SS](https://user-images.githubusercontent.com/108679600/236687957-beb70723-ef61-4418-92af-c331cb3b9bc4.png)
